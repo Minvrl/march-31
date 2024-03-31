@@ -1,0 +1,16 @@
+.btn-purple{
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+}
+
+
+.toast {
+    
+    bottom: 20px;
+    width: 80%;
+    height: 40px;
+    background-color: #4CAF50;
+    color: rgb(0, 0, 0);
+    padding: 15px 25px;
+    border-radius: 10px;
+    display: none; 
+}
