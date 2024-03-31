@@ -14,7 +14,7 @@ document.getElementById("regForm").addEventListener("submit", function(e) {
 
         setTimeout(function() {
             document.getElementById("myToast").style.display = "none";
-        }, 3000);
+        }, 5000);
     }
 });
 
